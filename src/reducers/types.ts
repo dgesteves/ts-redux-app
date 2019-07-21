@@ -1,4 +1,4 @@
-import { Todo } from '../actions/types'
+import { Todo } from '../actions'
 
 export interface StoreState {
   todos: Todo[]
